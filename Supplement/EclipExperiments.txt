@@ -1,0 +1,7 @@
+This table shows the ENCODE eCLIP experiment examined for SRSF1 to the LARS
+transcript in each cell line.
+
+CellLine Target Experiment  File
+-------- ------ ----------  ----
+HepG2    SRSF1  ENCSR989VIY ENCFF530MIN
+K562     SRSF1  ENCSR432XUP ENCFF788UFQ
